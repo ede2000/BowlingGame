@@ -140,7 +140,7 @@ public class BowlingLine
 
     // ----------------------------------------------------------
     /**
-     * The driver method the produces the output.
+     * The driver method that produces the output.
      * @param args
      */
     public static void main(String[] args)
